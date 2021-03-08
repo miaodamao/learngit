@@ -5,3 +5,4 @@ Git tracks change.
 Creating a new branch is quick and simple.
 a new branch
 add another branch
+stash test
